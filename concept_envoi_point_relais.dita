@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_envoi_point_relais">
+    <title>L'envoi par point relais sur Vinted</title>
+    <shortdesc>L'envoi par point relais permet aux membres de Vinted d'expédier leurs articles de
+        manière économique via un réseau de commerçants partenaires de la plateforme.</shortdesc>
+    <conbody>
+        <p>Sur Vinted, les acheteurs paient les frais de port et choisissent le transporteur de leur
+            choix au moment du paiement. En tant que vendeur, tu peux sélectionner les transporteurs
+            proposés à tes acheteurs. À chaque fois que tu vends un article, tu recois un bordereau
+            prépayé pour l'envoi. </p>
+        <section id="section_mvt_vjd_4jc">
+            <title>Comment fonctionne l'envoi de colis ?</title>
+            <p>
+                <ul id="ul_d2y_pkd_4jc">
+                    <li><b>L'acheteur paie les frais de port</b></li>
+                </ul>
+            </p>
+            <p>Les frais de port dépendent de la taille du colis et de la localisation de l'acheteur
+                et du vendeur. Ils sont toujours à la charge de l'acheteur. Le montant total de ces
+                frais s'affichera au moment du paiement.</p>
+            <p>
+                <ul id="ul_ir5_qkd_4jc">
+                    <li><b>L'acheteur choisit le mode d'envoi</b></li>
+                </ul>
+            </p>
+            <p>Lorsque l'acheteur clique sur le bouton <b>Acheter</b>pour acheter un de tes
+                articles, il choisit le transporteur que tu dois utiliser pour envoyer
+                l'article.</p>
+            <note id="note_s5t_hkd_4jc" type="remember">
+                <p>Vinted ne peut pas suivre les colis envoyés avec un transporteur différent de
+                    celui indiqué dans les détails de la commande. Merci donc de respecter le choix
+                    de l'acheteur.</p>
+            </note>
+        </section>
+        <section>
+            <title>Choisir les modes d'envoi proposés à tes acheteurs</title>
+            <p>Les vendeurs peuvent choisir les modes d'envoi proposés à leurs acheteurs.
+            </p>
+            <p>
+                <note id="note_hbv_rkd_4jc">Plus tu proposes de modes d'envoi, plus tu maximises tes
+                    chances de vendre.</note>
+            </p>
+            <p>Il existe plusieurs types de point relais :</p>
+            <p>
+                <ul id="ul_xsm_5kd_4jc">
+                    <li>Chronopost </li>
+                    <li>Mondial Relay</li>
+                    <li>Vinted Go</li>
+                    <li>Colissimo (LaPoste)</li>
+                    <li>DHL Express</li>
+                </ul>
+            </p>
+            <note type="attention" id="note_ysm_5kd_4jc">Les modes d'envoi disponibles dépendent de
+                la localisation de l'acheteur. C'est au vendeur de s'adapter à l'acheteur, et non
+                l'inverse.</note>
+            <note type="tip" id="note_zsm_5kd_4jc">Il est possible de désactiver certains modes
+                d'envoi sur l'application Vinted. Pour activer ou désactiver un mode d'envoi,
+                rends-toi dans <b>Paramètres > Envoi</b> depuis les paramètres de ton compte. Note
+                qu'il est impossible de désactiver tous les transporteurs ou les envois
+                internationaux. </note>
+        </section>
+    </conbody>
+</concept>

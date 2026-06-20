@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_préparer_envoi">
+    <title>Comment préparer son envoi Vinted ? </title>
+    <shortdesc>Les bonnes pratiques relatives à l'envoi d'un colis Vinted. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Après l'achat de ton article, tu recevras un bordereau d'envoi prépayé généré par
+                Vinted ainsi que des instructions pour l'envoi de l'article. Tu le trouveras dans la
+                conversation avec l'acheteur dans ton e-mail.</p>
+            <p>Une fois l'article prêt à l'emploi, merci de procéder comme suit :</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Emballe correctement ton article pour éviter qu'il ne soit endommagé pendant le
+                    transport</cmd>
+            </step>
+            <step>
+                <cmd>Utilise le bordereau d'envoi recu pour cette commande</cmd>
+            </step>
+            <step>
+                <cmd>Envoi l'article sous <b>5 jours ouvrés suivamt l'achat.</b></cmd>
+                <info>
+                <note id="note_idv_xnd_4jc" type="tip">Tu peux demander à l'acheteur de
+                    prolonger le délai de livraison. L'acheteur peut acccepter ou refuser cette
+                    demande.</note>
+                <note id="note_bnz_znd_4jc" type="important">Une fois l'article vendu, les
+                    informations telles que <b>le transporteur, le type de bordereau (imprimable
+                        ou numérique), l'adresse de livraison ou la taille du
+                    </b><b>colis</b><b> ne peuvent plus être modifiées.</b>La seule façon de
+                    modifier ces informations est d'annuler la commande et de la
+                    renouveler.
+                </note>
+                    <p>Si l'acheteur souscrit au service de <b>Vérification de l'article</b>ou le
+                        service de <b>Vérification du matériel électronique</b>lors de l'achat, la
+                      commande est acheminée vers le centre de vérification avant d'être livrée à
+                        l'acheteur.</p>
+                </info>
+      
+            </step>
+        
+        </steps>
+    </taskbody>
+</task>

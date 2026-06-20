@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>map_vinted</title>
+    <topicref href="task_pr%C3%A9parer_envoi.dita"/>
+    <topicref href="concept_envoi_point_relais.dita"/>
+    <topicref href="reference_dimensions_colis.dita"/>
+</map>

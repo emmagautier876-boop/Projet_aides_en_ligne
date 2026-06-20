@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Reference_dimensions_colis">
+    <title>Emballer un article </title>
+    <shortdesc>Quand tu envoies des articles avec le bordereau d'envoi prépayé généré par Vinted,
+            <b>assure-toi qu'ils sont bien emballés</b>, qu'ils respectent nos <xref
+            href="https://www.vinted.fr/catalog-rules" format="html" scope="external">Règles du
+            catalogue</xref> et qu'ils ne font pas partie de la liste des articles interdits
+        (disponible à la fin de cet article). Si tu ne respectes pas ces règles et que ton colis est
+        endommagé pendant le transport, tu risques de ne pas recevoir de <xref
+            href="https://www.vinted.fr/help/465?access_channel=hc_topics" format="html"
+            scope="external">remboursement</xref> ou d'<xref
+            href="https://www.vinted.fr/help/1018?access_channel=hc_topics" format="html"
+            scope="external">indemnisation</xref></shortdesc>
+    <refbody>
+        <section id="section_mp4_shq_qjc">
+            <title>Comment bien emballer un article ?</title>
+            <p>1.<b>Utilise un emballage extérieur solide</b>adapté aux dimensions de ton article.
+                Par exemple, une boîte en carton pour le protéger de la saleté et de l'humidité, ou
+                bien un emballage fourni par le transporteur, comme une enveloppe ou un sac
+                rembourré et imperméable. N'utilise pas de sacs non rembourrés.</p>
+            <p>2.<b>Remplis l'espace vide à l'intérieur</b>avec du papier bulle, du papier
+                classique, de la mousse ou un tout autre matériau similaire pour éviter que
+                l'article bouge et soit en contact avec l'emballage extérieur pendant le
+                transport.</p>
+            <p>3.<b>Ferme bien le colis avec du ruban adhésif solide</b>pour bien le protéger et
+                pour éviter que l'article ne tombe de l'emballage.</p>
+            <p>4.<b>Colle le bordereau d'envoi bien à plat</b>sur le plus grand côté du colis.
+                Vérifie que le code-barres est bien visible. Assure-toi que les bords du bordereau
+                sont bien collés avec du ruban adhésif solide. Retire toutes les anciennes
+                éventuelles étiquettes.</p>
+            <ul id="ul_zgs_13q_qjc">
+                <li><b>Pour les articles fragiles,</b>utilise toujours une boîte ou un carton
+                    solide, jamais de sac en plastique. Ajoute une étiquette « Fragile » sur le
+                    colis. Sépare chaque article fragile avec du papier bulle ou un autre matériau
+                    de rembourrage.</li>
+                <li><b>Pour les lots,</b>place tous les articles dans un seul colis (pas plus de
+                    deux appareils électroniques contenant des piles ou des batteries, voir
+                    ci-dessous). Assure-toi que chaque article est bien emballé et qu'il ne peut pas
+                    bouger à l'intérieur du colis pendant le transport.</li>
+            </ul>
+            <p>En cas de doute, respecte toujours les exigences en matière d'emballage de ton
+                transporteur.</p>
+            <p>
+                <note id="note_idv_xnd_4jc" type="note"><b>Nous te recommandons de prendre des
+                        photos de l'article et du colis</b> (intérieur et extérieur) avant l'envoi.
+                    Si l'acheteur signale un problème à la livraison, ces photos peuvent aider à
+                    résoudre le problème plus rapidement.</note>
+            </p>
+        </section>
+    </refbody>
+</reference>
